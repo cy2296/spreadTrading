@@ -1,0 +1,2 @@
+,tradeID,eSignal_Symbol,Date,IsPeriod,IsTrend,RsiEvent,Action,Price,CloseTime
+0,0,ZL Q4:ZLZ4,20140717,1,1,cross above high,wait for short,-0.0214864821962859,14:15
