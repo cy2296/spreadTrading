@@ -73,6 +73,6 @@ def findYearCase(symbol, m_buy, m_sell, m_in, m_out, year):
 	return (y_buy, y_sell, y_in, y_out)
 
 
-def mergeFutSpreadFile(str_bSymbol, int_bMonth, str_sSymbol, int_sMonth):
-	if 
+#def mergeFutSpreadFile(str_bSymbol, int_bMonth, str_sSymbol, int_sMonth):
+
 
